@@ -1,5 +1,5 @@
-# Petr-FLYers-Svoboda
-Public web pages and files for FLYers projects, apps and 8-bit text adventures.
+# FLYers Games Archive
+Android text adventures, Atari 8-bit classics and retro gaming projects by FLYers.
 
 
 
