@@ -9,7 +9,7 @@ Join the FLYers Games testing community and help improve upcoming releases!
 👉 Google Group: "FLYers Games Testers – https://groups.google.com/g/flyers-games
 
 
-🎮 Vietnam Mission
+🎮 <h2>🔴 Vietnam Mission</h2>
 
 1️⃣ Join the Google Group
 2️⃣ Join the closed Test
@@ -18,7 +18,7 @@ https://play.google.com/apps/testing/com.flyers.vietnammission
 
 
 
-🎮 Skinhead Story!
+🎮 Skinhead Story
 
 1️⃣ Join the Google Group
 2️⃣ Join the closed Test
