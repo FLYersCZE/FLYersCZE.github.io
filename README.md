@@ -11,9 +11,9 @@ Join the FLYers Games testing community and help improve upcoming releases!
 
 <h2>🔴 Vietnam Mission 🎮</h2>
 
-1️⃣ Join the Google Group
+1️⃣ Join the Google Group<br>
 2️⃣ Join the closed Test
-https://play.google.com/apps/testing/com.flyers.vietnammission
+https://play.google.com/apps/testing/com.flyers.vietnammission<br>
 3️⃣ Install and play the game!
 
 
