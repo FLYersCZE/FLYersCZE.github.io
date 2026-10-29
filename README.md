@@ -12,6 +12,7 @@ https://play.google.com/apps/testing/com.flyers.vietnammission
 3️⃣ Install and play the game!
 
 
+
 🎮 Skinhead Story!
 
 1️⃣ Join the Google Group:
@@ -23,8 +24,5 @@ https://play.google.com/apps/testing/com.flyers.skinheadstory
 
 
 
-Explore locations, try available actions, examine and use items, solve challenges and test as much of the game as possible.
-
-🐛 Please report any bugs or problems you find.
-
+Explore locations, try available actions, examine and use items, solve challenges and test as much of the game as possible. Please report any bugs or problems you find.
 Thank you for supporting FLYers! 🙏
