@@ -3,11 +3,15 @@ Android text adventures, Atari 8-bit classics and retro gaming projects by FLYer
 
 
 
+🧪 FLYers Games Testers
+Want to help test my Android games?
+Join the FLYers Games testing community and help improve upcoming releases!
+👉 Google Group: "FLYers Games Testers – Join here" (GROUP_LINK_HERE)
+
 🎮 Vietnam Mission
 
-1️⃣ Join the Google Group:
-https://groups.google.com/g/test-vietnam
-2️⃣ Join the closed test:
+1️⃣ Join the Google Group
+2️⃣ Join the closed Test
 https://play.google.com/apps/testing/com.flyers.vietnammission
 3️⃣ Install and play the game!
 
@@ -16,8 +20,7 @@ https://play.google.com/apps/testing/com.flyers.vietnammission
 🎮 Skinhead Story!
 
 1️⃣ Join the Google Group:
-https://groups.google.com/g/skinhead-story
-2️⃣ Join the closed test:
+2️⃣ Join the closed Test:
 https://play.google.com/apps/testing/com.flyers.skinheadstory
 3️⃣ Install and play the game!
 
